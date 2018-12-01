@@ -1,0 +1,9 @@
+[submodule "app1"]
+	path = app1
+	url = https://github.com/shunliz/app1.git
+[submodule "apigateway"]
+	path = apigateway
+	url = https://github.com/shunliz/apigateway.git
+[submodule "jhipster-registry"]
+	path = jhipster-registry
+	url = https://github.com/shunliz/jhipster-registry.git
